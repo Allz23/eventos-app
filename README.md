@@ -16,4 +16,4 @@ npm run build
 ```
 
 ### Personalizar la configuracion
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Vea [refrencia de configuración](https://cli.vuejs.org/config/).
