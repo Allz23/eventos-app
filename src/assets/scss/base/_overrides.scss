@@ -1,0 +1,9 @@
+// Estilos de la barra de progreso
+#nprogress .bar {
+  background: $progress-bar--color;
+}
+
+#nprogress .spinner-icon {
+  border-top-color: $progress-bar--color;
+  border-left-color: $progress-bar--color;
+}
