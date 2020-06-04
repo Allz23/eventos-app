@@ -1,24 +1,19 @@
-# vue-mastery-app
+# Eventos (App de VueMastery)
 
-## Project setup
+## Configuracion del proyecto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilacion y recarga automatica para desarrollo
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila y sirve archivos minificados para producción
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
+### Personalizar la configuracion
 See [Configuration Reference](https://cli.vuejs.org/config/).
